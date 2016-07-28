@@ -25,7 +25,7 @@ FERMENTABLES:
 0.5 lb - Cane Sugar (4.7%)
 
 HOPS:
-1.4 oz - Kent Goldings, Type: Pellet, AA: 5, Use: Boil for 60 min, IBU: 24.49
+1.4 oz - Kent Goldings, Type: Pellet, AA: 5, Use: Boil for 50 min, IBU: 24.49
 
 MASH GUIDELINES:
 1) Temperature, Temp: 150 F, Time: 90 min, Mash with bag.
