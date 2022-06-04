@@ -1,0 +1,64 @@
+HOME BREW RECIPE:
+Title: Hoppy Saison
+Author: Mad Fermentationist
+
+Brew Method: BIAB
+Style Name: Spice, Herb, or Vegetable Beer
+Boil Time: 60 min
+Batch Size: 5 gallons (fermentor volume)
+Boil Size: 3 gallons
+Boil Gravity: 1.085
+Efficiency: 60% (brew house)
+
+Hop Utilization Multiplier: 1
+
+STATS:
+Original Gravity: 1.051
+Final Gravity: 1.012
+ABV (standard): 5.15%
+IBU (tinseth): 46.64
+SRM (morey): 4.6
+Mash pH: 0
+
+FERMENTABLES:
+9 lb - Bohemian Pilsner (78.3%)
+0.5 lb - Rye (4.3%)
+0.5 lb - Flaked Oats (4.3%)
+1 lb - Acidulated Malt (8.7%)
+0.5 lb - Smoked Malt (4.3%)
+
+HOPS:
+0.75 oz - Azacca, Type: Pellet, AA: 14, Use: Boil for 50 min, IBU: 27.81
+1 oz - Dr Rudi, Type: Pellet, AA: 8.7, Use: Boil for 15 min, IBU: 12.02
+0.5 oz - Dr Rudi, Type: Pellet, AA: 8.7, Use: Boil for 10 min, IBU: 4.39
+0.5 oz - Dr Rudi, Type: Pellet, AA: 8.7, Use: Boil for 5 min, IBU: 2.42
+0.5 oz - Azacca, Type: Pellet, AA: 14, Use: Boil for 0 min
+1 oz - Dr Rudi, Type: Pellet, AA: 8.7, Use: Dry Hop for 10 days
+
+MASH GUIDELINES:
+1) Temperature, Temp: 148 F, Time: 90 min
+
+YEAST:
+White Labs - Belgian Style Saison Blend WLP568
+Starter: No
+Form: Liquid
+Attenuation (avg): 75%
+Flocculation: Medium
+Optimum Temp: 70 - 80 F
+Fermentation Temp: 70 F
+Pitch Rate: 0.35 (M cells / ml / deg P)
+
+PRIMING:
+Method: co2
+CO2 Level: 2.5 Volumes
+
+TARGET WATER PROFILE:
+Profile Name: Balanced Profile
+Ca2: 0
+Mg2: 0
+Na: 0
+Cl: 0
+SO4: 0
+HCO3: 0
+Water Notes:
+
