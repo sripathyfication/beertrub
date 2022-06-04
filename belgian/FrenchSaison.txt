@@ -1,6 +1,5 @@
 HOME BREW RECIPE:
 Title: FrenchSaison
-Author: Kyle
 
 Brew Method: BIAB
 Style Name: Saison
@@ -21,8 +20,8 @@ SRM (morey): 3.86
 Mash pH: 0
 
 FERMENTABLES:
-10 lb - Pilsner (83.3%)
-2 lb - Wheat Malt (16.7%)
+10 lb - Belgian Pilsner (83.3%)
+2 lb - German Wheat Malt (16.7%)
 
 HOPS:
 2.2 oz - Saaz (Czech), Type: Pellet, AA: 3.5, Use: Boil for 60 min, IBU: 30.78
